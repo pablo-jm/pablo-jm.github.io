@@ -10,7 +10,7 @@ primer trimestre, el cual consistía en una tienda web de música (Vinilos, CDs,
 
 •	Feedly
 
-### También he repasado los comentarios del proyecto HTML del primer trimestre para intentar corregir algunos errores.
+_**También he repasado los comentarios del proyecto HTML del primer trimestre para intentar corregir algunos errores.**_
 
 
 <img src="https://videothumbcdn.prezi.com/o30ffgv3squ_/thumbnail.0000002.jpg" alt="Holi" width="240" height="120">
