@@ -4,7 +4,7 @@
 | •	Rss    |
 | •	GitHub |
 | •	Feedly |
-| _**También he repasado los comentarios del proyecto HTML del primer trimestre para intentar corregir algunos errores.**_ |
+| • _**También he repasado los comentarios del proyecto HTML del primer trimestre para intentar corregir algunos errores.**_ |
 
 <div align="center">
   <img src="https://videothumbcdn.prezi.com/o30ffgv3squ_/thumbnail.0000002.jpg" alt="Holi" width="240" height="120">
