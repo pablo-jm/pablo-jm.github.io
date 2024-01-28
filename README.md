@@ -1,5 +1,5 @@
 <div align="center">
-  <img onclick="https://i.gifer.com/7NcB.gif" src="https://videothumbcdn.prezi.com/o30ffgv3squ_/thumbnail.0000002.jpg" alt="Holi" width="240" height="120">
+  <img src="https://videothumbcdn.prezi.com/o30ffgv3squ_/thumbnail.0000002.jpg" alt="Holi" width="240" height="120">
 </div>
 
 | Documento Rss Pablo Jiménez |
