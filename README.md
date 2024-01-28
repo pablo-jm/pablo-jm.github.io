@@ -4,13 +4,13 @@
 
 | Documento Rss Pablo Jiménez |
 |----------|
-| •	Temática|
+| **•	Temática**|
 |Elegí la temática de música para darle continuidad a la idea del HTML del primer trimestre, el cual consistía en una tienda web de música (Vinilos, CDs, Entradas…)|
-| •	Formato   |
+| **•	Formato**   |
 |Rss    |
-| •	Hosting|	
+| **•	Hosting**|	
 |GitHub |
-| •	Agregador   |
+| **•	Agregador**  |
 |Feedly |
 | • _**También he repasado los comentarios del proyecto HTML del primer trimestre para intentar corregir algunos errores.**_ |
 
